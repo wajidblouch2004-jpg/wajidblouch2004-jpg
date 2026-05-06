@@ -1,55 +1,40 @@
 <div align="center">
 
-  <!-- Main Container: Uses Dark Background (Always works) -->
-  <div style="background-color: #111827; border: 1px solid #374151; border-radius: 12px; padding: 30px; max-width: 650px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
+  <h1 style="font-family: sans-serif; font-weight: 700; font-size: 2.5rem; color: #f8fafc; margin-bottom: 10px;">Wajid Hussain</h1>
+  
+  <p style="font-family: sans-serif; color: #94a3b8; font-size: 1.1rem; max-width: 600px; margin: 0 auto 20px auto;">
+    Hi there 👋, I'm a <strong>Full Stack Web Developer</strong>. I build 
+    <span style="color: #38bdf8; font-weight: bold;">High-Performance</span>, 
+    <span style="color: #38bdf8; font-weight: bold;">Dynamic</span>, and 
+    <span style="color: #38bdf8; font-weight: bold;">Scalable</span> web applications using 
+    React.js, Laravel & WordPress.
+  </p>
 
-    <!-- Name -->
-    <h1 style="color: #f3f4f6; font-family: sans-serif; font-weight: 800; font-size: 2.5rem; margin: 0;">
-      Wajid Hussain
-    </h1>
+  <h3 style="font-family: sans-serif; margin-top: 30px; color: #fff; margin-bottom: 20px;">🛠 Tech Stack</h3>
+  
+  <div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />
+  </div>
+
+  <div style="margin-top: 40px; border-top: 1px solid #334155; padding-top: 20px;">
+    <h3 style="font-family: sans-serif; color: #fff;">💼 Get In Touch</h3>
     
-    <!-- Subtitle -->
-    <p style="color: #9ca3af; font-family: sans-serif; font-size: 1rem; max-width: 500px; margin: 15px auto; line-height: 1.6;">
-      Hi there 👋, I'm a <strong style="color: #f3f4f6;">Full Stack Web Developer</strong>. I craft <span style="color: #60a5fa;">High-Performance</span> & <span style="color: #60a5fa;">Scalable</span> apps using React.js, Laravel & WordPress.
-    </p>
-
-    <!-- Tech Stack Badges -->
-    <div style="margin: 25px 0; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </div>
-
-    <!-- Animated Button -->
-    <div style="margin-top: 25px;">
-      <a href="https://linkedin.com/in/wajid-khan-b3ab97407" target="_blank" 
-         style="text-decoration: none; 
-                background-color: #3b82f6; 
-                color: white; 
-                padding: 12px 28px; 
-                border-radius: 6px; 
-                font-family: sans-serif; 
-                font-weight: 600; 
-                font-size: 0.95rem; 
-                display: inline-flex; 
-                align-items: center; 
-                gap: 8px;
-                border: 1px solid #2563eb;
-                transition: transform 0.2s ease;">
-        
-        <span>Connect on LinkedIn</span>
+    <div style="margin-top: 15px;">
+      <a href="https://linkedin.com/in/wajid-khan-b3ab97407" target="_blank" style="text-decoration: none; background-color: #0077b5; color: white; padding: 10px 25px; border-radius: 8px; font-family: sans-serif; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" />
+        Connect on LinkedIn
       </a>
     </div>
+  </div>
 
-    <!-- Footer Text -->
-    <p style="margin-top: 20px; color: #6b7280; font-family: sans-serif; font-size: 0.8rem;">
-      ⚡ Currently Open to new projects and collaborations.
-    </p>
-
+  <div style="margin-top: 20px; color: #64748b; font-family: sans-serif; font-size: 0.8rem;">
+    ⚡ Currently Open to new projects and collaborations.
   </div>
 
 </div>
