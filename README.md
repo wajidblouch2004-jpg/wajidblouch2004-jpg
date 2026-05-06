@@ -12,7 +12,7 @@
 
   <h3 style="font-family: sans-serif; margin-top: 30px; color: #fff; margin-bottom: 20px;">🛠 Tech Stack</h3>
   
-  <div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="margin-top: 20px; display: flex; gap: 20px;  justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
