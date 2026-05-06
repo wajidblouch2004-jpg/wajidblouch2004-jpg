@@ -1,20 +1,27 @@
-# Hi there 👋, I'm [Aapka Naam]
-### Full Stack Web Developer | React.js & Laravel Enthusiast
+# Hi there 👋, I'm Wajid Hussain
+### Full Stack Web Developer | React.js, Laravel & WordPress Expert
 
-- 🔭 I’m currently working on **Dynamic Web Applications**
-- 🌱 I’m currently learning **Advanced Backend Architecture**
-- 💼 Check out my portfolio: **[LinkedIn Link Ya Fiverr Link]**
-- 📫 How to reach me: **[Aapka Email]**
+I build **High-Performance**, **Dynamic**, and **Scalable** web applications.
 
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind
-- **Backend:** Laravel (PHP), MySQL
-- **Tools:** Git, GitHub, XAMPP, VS Code
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Laravel](https://shields.io)
+![WordPress](https://shields.io)
+![MySQL](https://shields.io)
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://vercel.app[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://vercel.app[YOUR-USERNAME]&layout=compact&theme=radical)
+### 💼 Get In Touch
+- 🌐 **LinkedIn:** [wajid-khan-b3ab97407](https://www.linkedin.com/in/wajid-khan-b3ab97407/)
+- 🚀 **Currently:** Open to new projects and collaborations.
+
+---
+
+### 📊 GitHub Activity
+![Wajid's Stats](https://vercel.app)
+
