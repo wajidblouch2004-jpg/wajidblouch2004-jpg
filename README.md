@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm [Aapka Naam]
+### Full Stack Web Developer | React.js & Laravel Enthusiast
 
-<!--
-**wajidblouch2004-jpg/wajidblouch2004-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Dynamic Web Applications**
+- 🌱 I’m currently learning **Advanced Backend Architecture**
+- 💼 Check out my portfolio: **[LinkedIn Link Ya Fiverr Link]**
+- 📫 How to reach me: **[Aapka Email]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind
+- **Backend:** Laravel (PHP), MySQL
+- **Tools:** Git, GitHub, XAMPP, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://vercel.app[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://vercel.app[YOUR-USERNAME]&layout=compact&theme=radical)
